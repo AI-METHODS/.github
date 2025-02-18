@@ -40,9 +40,9 @@ AI METHODS' Smart Storm Warning system is able to predict storms anytime and any
 ## Collaborations
 
 <div style="display: flex;" align: "center">
-  <img src=Images/KAIROS_logo.png width="280">
-  <img src=Images/ESA_logo.jpg width="280">
-  <img src=Images/ENAIRE_logo.png width="280">
+  <img src=Images/KAIROS_logo.png width="315">
+  <img src=Images/ESA_logo.jpg width="315">
+  <img src=Images/ENAIRE_logo.png width="315">
   <br><br><br><br><br><br>
   <div align="center">
     <a href="https://www.sesarju.eu/projects/KAIROSeesa" target="_blank" style="color: #0066cc; text-decoration: none;">KAIROS Official WebSite</a> |

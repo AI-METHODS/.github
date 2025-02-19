@@ -47,7 +47,7 @@ AI METHODS' Smart Storm Warning system is able to predict storms anytime and any
   <img src=Images/ENAIRE_logo.png width="275">
   <br><br><br><br><br><br>
   <div align="center">
-    <a href="https://www.sesarju.eu/projects/KAIROSeesa" target="_blank" style="color: #0066cc; text-decoration: none;">KAIROS Official WebSite</a> |
+    <a href="https://www.kairos-eu.com/" target="_blank" style="color: #0066cc; text-decoration: none;">KAIROS Official WebSite</a> |
     <a href="https://www.esa.int/" target="_blank" style="color: #0066cc; text-decoration: none;">ESA Official WebSite</a> |
     <a href="https://www.enaire.es/home" target="_blank" style="color: #0066cc; text-decoration: none;">ENAIRE Official WebSite</a>
   </div>

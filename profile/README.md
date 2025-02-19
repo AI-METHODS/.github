@@ -21,7 +21,7 @@ We aim to help organizations, companies and aviation professionals improve their
 
 A key component of our solutions is their scientific basis. Hence the importance of our research staff and our scientific activity.
 
-## Solutions
+## Our Solution
 
 ### Earlier Weather Forecast
 

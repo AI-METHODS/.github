@@ -1,7 +1,7 @@
 # AI METHODS
 
 <p align="center">
-  <img src=Images/AIMETHODS_logo.png width="400">
+  <img src=Images/AI-Methods_logo_transparent_white.png width="400">
 </p>
 
 <p align="center">
